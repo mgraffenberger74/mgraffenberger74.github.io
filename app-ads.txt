@@ -1,0 +1,2 @@
+# AdMob: Publisher-ID aus AdMob → Einstellungen → Kontoinformationen einsetzen (Form pub-0123456789012345)
+google.com, pub-[PUBLISHER-ID], DIRECT, f08c47fec0942fa0
